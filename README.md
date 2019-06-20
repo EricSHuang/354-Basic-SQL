@@ -1,0 +1,2 @@
+# 354-Basic_SQL
+CMPT354 A1: SQL Basics
